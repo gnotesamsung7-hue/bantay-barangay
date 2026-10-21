@@ -1,0 +1,15 @@
+{
+  "name": "bantay-barangay",
+  "version": "1.0.0",
+  "description": "Mark Dave's Bantay Barangay - a Filipino pop culture idle auto-battler by Mark Dave",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "@capacitor/android": "6.1.2",
+    "@capacitor/core": "6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "3.0.5",
+    "@capacitor/cli": "6.1.2"
+  }
+}

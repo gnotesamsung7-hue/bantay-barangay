@@ -1,0 +1,6 @@
+{
+  "appId": "com.markdave.bantaybarangay",
+  "appName": "Bantay Barangay",
+  "webDir": "www",
+  "android": { "backgroundColor": "#121B1F" }
+}
